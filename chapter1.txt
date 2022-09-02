@@ -1,3 +1,5 @@
-this is a story
+this is a story.
+this is a great story.
 
 i think i'm pretty much given up on writting stories now and we're going to make a commit. 
+nothing like a bit of confidence in your story writing to make it better.
